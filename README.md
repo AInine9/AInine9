@@ -5,6 +5,8 @@ Japanese student at Chiba Institute of Technology.
 - Java
 - Kotlin
 - Android App
+- Unity
+- C#
 
 ## :checkered_flag: Goal
 **becoming an engineer...**
