@@ -9,7 +9,7 @@ Japanese student at Chiba Institute of Technology.
 - C#
 
 ## :checkered_flag: Goal
-**becoming an engineer...**
+**becoming an engineer!**
 
 ## Contact
 Twitter: [@AI_nine_](https://twitter.com/AI_nine_)
