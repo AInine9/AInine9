@@ -1,4 +1,5 @@
 # AInine
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AInine9)](https://github.com/anuraghazra/github-readme-stats)
 Japanese student at Chiba Institute of Technology.
 
 ## :heart: Interest
