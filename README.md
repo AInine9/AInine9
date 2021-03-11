@@ -4,18 +4,18 @@
 
 # Bio
 Japanese student at Chiba Institute of Technology.
+Part-time Android engineer.
 
 ## :heart: Interest
 - Java
 - Kotlin
 - Android App
-- Unity
-- C#
 
-## :checkered_flag: Goal
-**becoming an engineer!**
+## 📖 Studying
+- Ruby
+- Rails
+- Database
+- Javascript & Framework
 
 ## Contact
-Twitter: [@AI_nine_](https://twitter.com/AI_nine_)
-
 Email: ainine.jp@gmail.com
