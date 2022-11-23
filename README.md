@@ -8,15 +8,13 @@ Japanese student at Chiba Institute of Technology.
 Part-time Android engineer.
 
 ## :heart: Interest
-- Java
-- Kotlin
-- Android App
+- Web API
+- Infrastructure
 
 ## 📖 Studying
-- Ruby
-- Rails
-- Database
-- Javascript & Framework
+- Go
+- Docker
+- Typescript
 
 ## Contact
 Email: ainine.jp@gmail.com
