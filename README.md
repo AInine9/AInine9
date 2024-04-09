@@ -4,8 +4,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AInine9&theme=default)
 
 # Bio
-Japanese student at Chiba Institute of Technology.
-Part-time Android engineer.
+Back-end Engineer.
 
 ## :heart: Interest
 - Web API
@@ -14,7 +13,6 @@ Part-time Android engineer.
 ## 📖 Studying
 - Go
 - Docker
-- Typescript
 
 ## Contact
 Email: ainine.jp@gmail.com
